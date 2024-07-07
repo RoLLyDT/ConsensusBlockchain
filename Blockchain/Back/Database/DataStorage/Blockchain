@@ -1,0 +1,350 @@
+[
+    {
+        "blockHeight": 4,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000c5a1ec913090b47eee18a34f258feaa2591c928c84f760af3b0595e50730",
+            "merkleRoot": "b936bdc52bf1e633270b18effa0c20eb8a106437b5cbce92aee6394a214de9f9",
+            "timestamp": 1711696022,
+            "bits": "ffff001f",
+            "nonce": 83600,
+            "blockHash": "000078767a4188fb478a4af12064f86a16e3562c75e5efc04600cadfd25e624b"
+        }
+    },
+    {
+        "blockHeight": 14,
+        "blockData": {
+            "version": 1,
+            "prevHash": "00008371d70daef22cb2157a662bbf42d8ef9390bdf7cc3c981da916a3beb905",
+            "merkleRoot": "e6d56f8c3dc8f4ed9163c5f04b5f7a106257c33192ad53598411720a18868660",
+            "timestamp": 1712115358,
+            "bits": "ffff001f",
+            "nonce": 163370,
+            "blockHash": "000092a53bc8bc20e27272e5dda49b031a77526b80143fb6371aeba75be9f83c"
+        }
+    },
+    {
+        "blockHeight": 15,
+        "blockData": {
+            "version": 1,
+            "prevHash": "000092a53bc8bc20e27272e5dda49b031a77526b80143fb6371aeba75be9f83c",
+            "merkleRoot": "e56855b8e86a33db8a31b240c583d76dbd83e4d78b3aac93e3dc18071b1c5166",
+            "timestamp": 1712115359,
+            "bits": "ffff001f",
+            "nonce": 59074,
+            "blockHash": "0000c9b7d67a6757b40fb68d0183e3e4fc15204164c617cc7705933aa36bc251"
+        }
+    },
+    {
+        "blockHeight": 16,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000c9b7d67a6757b40fb68d0183e3e4fc15204164c617cc7705933aa36bc251",
+            "merkleRoot": "d6720cae5a404d9ebf532aef769013ca65d5df7c723b3bb89bbb5ce0c5a30222",
+            "timestamp": 1712115360,
+            "bits": "ffff001f",
+            "nonce": 45716,
+            "blockHash": "0000f344575dd11884faf1c172159c95eaa6b38f9791421a419619a7f94cbadd"
+        }
+    },
+    {
+        "blockHeight": 17,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000f344575dd11884faf1c172159c95eaa6b38f9791421a419619a7f94cbadd",
+            "merkleRoot": "393827e155b534beaac1300b859404ef08cfae1c963d9ef5b406d6e5f2a4a7c9",
+            "timestamp": 1712115362,
+            "bits": "ffff001f",
+            "nonce": 24878,
+            "blockHash": "000006d9d96d1f101adcbac1338ed16661d08ab7be62130a7687d2f04322835c"
+        }
+    },
+    {
+        "blockHeight": 34,
+        "blockData": {
+            "version": 1,
+            "prevHash": "000002a4ee75c97d5e6f75450203ff4acde0c2234304ef9c57ba1aa6a0eb11ba",
+            "merkleRoot": "ad77f5a8d9ecf3af705e2eec23fbbcdef243c812e84116b88b1e96c59ea9a8f5",
+            "timestamp": 1712115382,
+            "bits": "ffff001f",
+            "nonce": 3911,
+            "blockHash": "0000cceb740a555898013495f181f1b652dad98711ca359466d7f069e8ed0a2b"
+        }
+    },
+    {
+        "blockHeight": 35,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000cceb740a555898013495f181f1b652dad98711ca359466d7f069e8ed0a2b",
+            "merkleRoot": "7b8e2b2a041dbbb878904a782203dc26f387c50e8350717658decb020f9c46e9",
+            "timestamp": 1712115383,
+            "bits": "ffff001f",
+            "nonce": 12552,
+            "blockHash": "0000f37e5cd8461e92782159a589809300205c66d8e82425a8653b78ecaefed1"
+        }
+    },
+    {
+        "blockHeight": 12,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000e760afbbbeffb060b51f9409970535314b22b09d98d9a86a974290a71c74",
+            "merkleRoot": "4018c6304d7e74e9ba050a01f5e944abf4b382eb73ce98904b6c6862ba0d5063",
+            "timestamp": 1712118451,
+            "bits": "ffff001f",
+            "nonce": 43798,
+            "blockHash": "0000e48e5d0e0de9bc2ad6ce2630db7f48572c63c09744c60b90febc6ecd9d42"
+        }
+    },
+    {
+        "blockHeight": 13,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000e48e5d0e0de9bc2ad6ce2630db7f48572c63c09744c60b90febc6ecd9d42",
+            "merkleRoot": "cc7501782d03b682e3d8b1cdfa14b2608739a0f6b668f01030ed6bf4034c8296",
+            "timestamp": 1712118452,
+            "bits": "ffff001f",
+            "nonce": 295998,
+            "blockHash": "0000d2010b0e2a4d7244390e81fb52f650c493f72bb91e25f8e75458ce792f8e"
+        }
+    },
+    {
+        "blockHeight": 14,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000d2010b0e2a4d7244390e81fb52f650c493f72bb91e25f8e75458ce792f8e",
+            "merkleRoot": "e6d56f8c3dc8f4ed9163c5f04b5f7a106257c33192ad53598411720a18868660",
+            "timestamp": 1712118453,
+            "bits": "ffff001f",
+            "nonce": 28060,
+            "blockHash": "0000e7a934a0aa038fb8e4ecd034c60c9f6c1730faee6a2f9a393da99058625e"
+        }
+    },
+    {
+        "blockHeight": 31,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000299595fd89d84b16b67330cf17ef30429b996f49a418e55076967cb08a39",
+            "merkleRoot": "3551ac04d30f42992cef3c9e56134ab913304c3529713b893a564912baac8256",
+            "timestamp": 1712118463,
+            "bits": "ffff001f",
+            "nonce": 109024,
+            "blockHash": "0000bff15fb457cf734482cc56154297d7f7ab2d73450afaf906d02a2009fa44"
+        }
+    },
+    {
+        "blockHeight": 32,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000bff15fb457cf734482cc56154297d7f7ab2d73450afaf906d02a2009fa44",
+            "merkleRoot": "c06a89645f72f3f2593d21b39e66c70e615b278c6ad964e9e59cb5f53f352403",
+            "timestamp": 1712118463,
+            "bits": "ffff001f",
+            "nonce": 80374,
+            "blockHash": "00000d43c130a1c4422db418a0e703625421acad647c4d51f27fd5933aefdb92"
+        }
+    },
+    {
+        "blockHeight": 33,
+        "blockData": {
+            "version": 1,
+            "prevHash": "00000d43c130a1c4422db418a0e703625421acad647c4d51f27fd5933aefdb92",
+            "merkleRoot": "b89467e6be6e0934881baa8d83b338d6403fa5bdecc38d26b4d81f979e715ba2",
+            "timestamp": 1712118464,
+            "bits": "ffff001f",
+            "nonce": 38473,
+            "blockHash": "000033b923006689b2f47b0fd75f68c78c92b7467291d055b6fef8bc4f56c2e2"
+        }
+    },
+    {
+        "blockHeight": 34,
+        "blockData": {
+            "version": 1,
+            "prevHash": "000033b923006689b2f47b0fd75f68c78c92b7467291d055b6fef8bc4f56c2e2",
+            "merkleRoot": "ad77f5a8d9ecf3af705e2eec23fbbcdef243c812e84116b88b1e96c59ea9a8f5",
+            "timestamp": 1712118465,
+            "bits": "ffff001f",
+            "nonce": 49164,
+            "blockHash": "000040672ac6803d77745f8a6976c152b7c968e8375929c0808a2a0b8a41c53c"
+        }
+    },
+    {
+        "blockHeight": 37,
+        "blockData": {
+            "version": 1,
+            "prevHash": "00001ab0de31b64f1ff256fe01b87c71612117c3742b15af8bacb9c90a553d2b",
+            "merkleRoot": "250d92ee2daf4b1dd74b935c62205e37c3b6943d1c3fd783603f0b4cdcce95a8",
+            "timestamp": 1712125734,
+            "bits": "ffff001f",
+            "nonce": 1188,
+            "blockHash": "00004de242d87c7b1c6d0fdec5ad1a75adf98a61727c24ba813d602f5e33ccef"
+        }
+    },
+    {
+        "blockHeight": 40,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000fe2e237aed301f64c8194473fadf39b19bddc9457628ae6f2465ed899deb",
+            "merkleRoot": "066da182ef35515a5774318c8fac3f945f485ae29e8c8f4c4eb7087d7c0d0718",
+            "timestamp": 1712125736,
+            "bits": "ffff001f",
+            "nonce": 155618,
+            "blockHash": "0000afd1edad7be929d20b9bfbd96c492c2ed96cbc45caa79bde016c01bc5ffc"
+        }
+    },
+    {
+        "blockHeight": 41,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000afd1edad7be929d20b9bfbd96c492c2ed96cbc45caa79bde016c01bc5ffc",
+            "merkleRoot": "5578d8c97ec9f32554d4c989f4517abfeeb00aadb2894ac8ba553508e8ee6cea",
+            "timestamp": 1712125737,
+            "bits": "ffff001f",
+            "nonce": 18344,
+            "blockHash": "0000f95d04015f4b1d7c046d937a8fa59e633fac31fa812c8e771c66d6918b11"
+        }
+    },
+    {
+        "blockHeight": 42,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000f95d04015f4b1d7c046d937a8fa59e633fac31fa812c8e771c66d6918b11",
+            "merkleRoot": "a9db6cb1b36abf4dea55f0d5a011811f7cf5dc952681dd70730484ea3c9fb5ea",
+            "timestamp": 1712125737,
+            "bits": "ffff001f",
+            "nonce": 102434,
+            "blockHash": "0000b8de44bc432ae950e54336673b670cb60b424fc286cdb9ecd42b866e990c"
+        }
+    },
+    {
+        "blockHeight": 195,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000636bbb0d1e86bbf01ba76291417ef25662d82e6e8c84c05d3f2d922afdbe",
+            "merkleRoot": "63bba70421818ce128d3909cb91e7ca11154415128904294e3eba2b27828e50b",
+            "timestamp": 1712125834,
+            "bits": "ffff001f",
+            "nonce": 209847,
+            "blockHash": "0000c05ab695b0e0f23aafb7ba45677394d3fc5a3329dd49f9c705c3a20e1232"
+        }
+    },
+    {
+        "blockHeight": 196,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000c05ab695b0e0f23aafb7ba45677394d3fc5a3329dd49f9c705c3a20e1232",
+            "merkleRoot": "dee29f08bc2f9bbd8043209826640a6f73985eeeb50383b9aef029b2e8538918",
+            "timestamp": 1712125834,
+            "bits": "ffff001f",
+            "nonce": 44363,
+            "blockHash": "0000cf703a500a21bd803f513249362ca407f401625d5df011ef24853104fe6b"
+        }
+    },
+    {
+        "blockHeight": 197,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000cf703a500a21bd803f513249362ca407f401625d5df011ef24853104fe6b",
+            "merkleRoot": "c7060ad3a810c5e872eb43cfbe73c24f6d23adf72d664ff95463490734d123dd",
+            "timestamp": 1712125835,
+            "bits": "ffff001f",
+            "nonce": 216106,
+            "blockHash": "0000ad054e874ecebb67ae38a1f7753a82a71c93c3f011feae800d687e6a735f"
+        }
+    },
+    {
+        "blockHeight": 150,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000ecc50c19dd2935e843fcd7f26ec66816fbaa73e0e32f65be486366f60791",
+            "merkleRoot": "a236fa8044588135e1f8b980335ef3a918a54fd392bc953d903046a6bf44a709",
+            "timestamp": 1712130075,
+            "bits": "ffff001f",
+            "nonce": 138755,
+            "blockHash": "000080814dbb614d633c765072bca59ae1b9cec6b49406599f9ca3627000cc99"
+        }
+    },
+    {
+        "blockHeight": 151,
+        "blockData": {
+            "version": 1,
+            "prevHash": "000080814dbb614d633c765072bca59ae1b9cec6b49406599f9ca3627000cc99",
+            "merkleRoot": "b53ff8d7a080ef261d1c48c00b2f003898f660c9c48925de3d67f0823b151705",
+            "timestamp": 1712130076,
+            "bits": "ffff001f",
+            "nonce": 15504,
+            "blockHash": "0000935c8bb902bd1ab3f17bdba883b627940f3ca7c9e063039d8579ad539b81"
+        }
+    },
+    {
+        "blockHeight": 152,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000935c8bb902bd1ab3f17bdba883b627940f3ca7c9e063039d8579ad539b81",
+            "merkleRoot": "a6899daae0d7042ca576d97e7f25909b4e5c922100dcb34679ecb42c862ebb24",
+            "timestamp": 1712130076,
+            "bits": "ffff001f",
+            "nonce": 966,
+            "blockHash": "00000b522b4c3ffcc78823053be2073a37280cdf2c8094ccacba37960270eb9b"
+        }
+    },
+    {
+        "blockHeight": 153,
+        "blockData": {
+            "version": 1,
+            "prevHash": "00000b522b4c3ffcc78823053be2073a37280cdf2c8094ccacba37960270eb9b",
+            "merkleRoot": "9dc92ba6ff606f1e9c5c0f77e891a910bfcb4ec75235651fb4fc1b19bfd4ebb6",
+            "timestamp": 1712130077,
+            "bits": "ffff001f",
+            "nonce": 78340,
+            "blockHash": "00003617c021f32545c64f632697ccb8bede494733843dc663622b3942a9d186"
+        }
+    },
+    {
+        "blockHeight": 154,
+        "blockData": {
+            "version": 1,
+            "prevHash": "00003617c021f32545c64f632697ccb8bede494733843dc663622b3942a9d186",
+            "merkleRoot": "c7a24c5cf83b12d4eee472e1e8dd6f6d961626094f22fddb3115282be4f327b8",
+            "timestamp": 1712130078,
+            "bits": "ffff001f",
+            "nonce": 10319,
+            "blockHash": "0000a33f4b48095a21b6900f543cb9b6588306aecac5ede122b4dc122e3fd131"
+        }
+    },
+    {
+        "blockHeight": 176,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000bebb98ad6a0c98088574bb6137cbc62de266156bcfbda6bbe318cf198027",
+            "merkleRoot": "7d86beb63ab96e20324bd176ecb1472974f2bb69e942823cd83ffdbfd92af61f",
+            "timestamp": 1712130091,
+            "bits": "ffff001f",
+            "nonce": 192349,
+            "blockHash": "0000eec7c1c90c5babbb86f3cdab2d34252a5c9e13d01898fd326c7f000317d6"
+        }
+    },
+    {
+        "blockHeight": 177,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000eec7c1c90c5babbb86f3cdab2d34252a5c9e13d01898fd326c7f000317d6",
+            "merkleRoot": "f22196269c2440bd79cc01c8150d60a759bc262dc8d09b1f196d043ad894868a",
+            "timestamp": 1712130092,
+            "bits": "ffff001f",
+            "nonce": 19418,
+            "blockHash": "0000507dfb2529745178b1dc38b87626b262e83485aa92624ed7bfa33919f61c"
+        }
+    },
+    {
+        "blockHeight": 178,
+        "blockData": {
+            "version": 1,
+            "prevHash": "0000507dfb2529745178b1dc38b87626b262e83485aa92624ed7bfa33919f61c",
+            "merkleRoot": "e27260e2e3eeac3ce13773c6be5933e19baa8a24df40b427884d9361ef585f2e",
+            "timestamp": 1712130092,
+            "bits": "ffff001f",
+            "nonce": 261,
+            "blockHash": "0000e4f7c6e7adccc6038cc1e73393a73fe1c749261839eded4c852f793d9762"
+        }
+    }
+]
